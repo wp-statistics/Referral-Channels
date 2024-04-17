@@ -10,7 +10,9 @@ Our aim is to maintain a community-driven repository where users can contribute 
 
 We manage several channel groups, each represented by a separate text file in the repository. Here are some of the channel groups:
 
-- **[Organic Search](organic_search.txt)** - Traffic from search engines.
+- **[Organic Search](organic_search.txt)** - Traffic from non-ad links in organic-search results.
+- **[Organic Video](organic_video.txt)** - Traffic from non-ad links on video sites like YouTube, TikTok, or Vimeo.
+
 
 ## Contributing
 
