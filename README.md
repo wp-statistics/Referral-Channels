@@ -13,6 +13,7 @@ We manage several channel groups, each represented by a separate text file in th
 - **[Organic Search](organic_search.txt)** - Traffic from non-ad links in organic-search results.
 - **[Organic Video](organic_video.txt)** - Traffic from non-ad links on video sites like YouTube, TikTok, or Vimeo.
 - **[Shopping](shopping.txt)** - Traffic from links on shopping sites like Amazon or ebay.
+- **[Organic Social](organic_social.txt)** - Traffic from links on social sites like Facebook or Twitter.
 
 
 ## Contributing
