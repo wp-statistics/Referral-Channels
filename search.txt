@@ -1,14 +1,13 @@
 ar.search.yahoo.com
 at.search.yahoo.com
 au.search.yahoo.com
-biglobe.co.jp
 biglobe.ne.jp
+bing.com
 br.search.yahoo.com
 ca.search.yahoo.com
-centrum.cz
+search.centrum.cz
 ch.search.yahoo.com
 cl.search.yahoo.com
-cn.bing.com
 co.search.yahoo.com
 daum.net
 de.search.yahoo.com
@@ -23,7 +22,6 @@ excite.com
 fi.search.yahoo.com
 firmy.cz
 fr.search.yahoo.com
-go.mail.ru
 hk.search.yahoo.com
 id.search.yahoo.com
 in.search.yahoo.com
