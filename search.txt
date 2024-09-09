@@ -31,8 +31,6 @@ m.baidu.com
 m.naver.com
 m.search.naver.com
 m.sogou.com
-mail.rambler.ru
-mail.yandex.ru
 malaysia.search.yahoo.com
 msn.com
 mx.search.yahoo.com
