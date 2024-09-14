@@ -19,7 +19,7 @@
          ]
       },
       "paid_search":{
-         "description":"Paid traffic from search engine advertisements",
+         "description":"Paid traffic from search engine",
          "channels":[
             {
                "name": "DuckDuckGo",
