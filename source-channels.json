@@ -22,20 +22,6 @@
          "description":"Paid traffic from search engine advertisements",
          "channels":[
             {
-               "name": "Syndicated Search",
-               "identifier": "syndicated_search",
-               "domains": [
-                  "syndicatedsearch.goog"
-               ]
-            },
-            {
-               "name": "Ad Sense",
-               "identifier": "adsense",
-               "domains": [
-                  "adsensecustomsearchads.com"
-               ]
-            },
-            {
                "name": "DuckDuckGo",
                "identifier": "duckduckgo",
                "domains": [
@@ -234,7 +220,9 @@
                   "google.co.zw",
                   "google.cat",
                   "lens.google.com",
-                  "news.google.com"
+                  "news.google.com",
+                  "adsensecustomsearchads.com",
+                  "syndicatedsearch.goog"
                ]
             },
             {
