@@ -286,7 +286,8 @@
                   "yandex.ru",
                   "yandex.ua",
                   "yandex.uz",
-                  "yandex.eu"
+                  "yandex.eu",
+                  "ya.ru"
                ]
             },
             {
@@ -325,31 +326,16 @@
                ]
             },
             {
-               "name":"Exalead",
-               "identifier":"exalead",
-               "domains":[
-                  "exalead.com"
-               ]
-            },
-            {
                "name":"Excite",
                "identifier":"excite",
                "domains":[
-                  "excite.com"
-               ]
-            },
-            {
-               "name":"Firmy",
-               "identifier":"firmy",
-               "domains":[
-                  "firmy.cz"
+                  "results.excite.com"
                ]
             },
             {
                "name":"Qwant",
                "identifier":"qwant",
                "domains":[
-                  "lite.qwant.com",
                   "qwant.com"
                ]
             },
@@ -366,15 +352,8 @@
                "domains":[
                   "m.naver.com",
                   "m.search.naver.com",
-                  "naver.com"
-               ]
-            },
-            {
-               "name":"MSN",
-               "identifier":"msn",
-               "domains":[
-                  "msn.com",
-                  "ntp.msn.com"
+                  "naver.com",
+                  "search.naver.com"
                ]
             },
             {
@@ -399,7 +378,7 @@
                "name":"Rakuten",
                "identifier":"rakuten",
                "domains":[
-                  "rakuten.co.jp",
+                  "search.rakuten.co.jp",
                   "websearch.rakuten.co.jp"
                ]
             },
@@ -407,14 +386,16 @@
                "name":"Onet",
                "identifier":"onet",
                "domains":[
-                  "onet.pl"
+                  "onet.pl",
+                  "szukaj.onet.pl"
                ]
             },
             {
                "name":"Rambler",
                "identifier":"rambler",
                "domains":[
-                  "rambler.ru"
+                  "rambler.ru",
+                  "nova.rambler.ru"
                ]
             },
             {
@@ -433,24 +414,18 @@
                ]
             },
             {
-               "name":"Tut",
-               "identifier":"tut",
-               "domains":[
-                  "tut.by"
-               ]
-            },
-            {
                "name":"Docomo",
                "identifier":"docomo",
                "domains":[
-                  "search.smt.docomo.ne.jp"
+                  "service.smt.docomo.ne.jp"
                ]
             },
             {
                "name":"Seznam",
                "identifier":"seznam",
                "domains":[
-                  "seznam.cz"
+                  "seznam.cz",
+                  "search.seznam.cz"
                ]
             },
             {
@@ -741,7 +716,8 @@
                   "yandex.ru",
                   "yandex.ua",
                   "yandex.uz",
-                  "yandex.eu"
+                  "yandex.eu",
+                  "ya.ru"
                ]
             },
             {
@@ -780,31 +756,16 @@
                ]
             },
             {
-               "name":"Exalead",
-               "identifier":"exalead",
-               "domains":[
-                  "exalead.com"
-               ]
-            },
-            {
                "name":"Excite",
                "identifier":"excite",
                "domains":[
-                  "excite.com"
-               ]
-            },
-            {
-               "name":"Firmy",
-               "identifier":"firmy",
-               "domains":[
-                  "firmy.cz"
+                  "results.excite.com"
                ]
             },
             {
                "name":"Qwant",
                "identifier":"qwant",
                "domains":[
-                  "lite.qwant.com",
                   "qwant.com"
                ]
             },
@@ -821,15 +782,8 @@
                "domains":[
                   "m.naver.com",
                   "m.search.naver.com",
-                  "naver.com"
-               ]
-            },
-            {
-               "name":"MSN",
-               "identifier":"msn",
-               "domains":[
-                  "msn.com",
-                  "ntp.msn.com"
+                  "naver.com",
+                  "search.naver.com"
                ]
             },
             {
@@ -854,7 +808,7 @@
                "name":"Rakuten",
                "identifier":"rakuten",
                "domains":[
-                  "rakuten.co.jp",
+                  "search.rakuten.co.jp",
                   "websearch.rakuten.co.jp"
                ]
             },
@@ -862,14 +816,16 @@
                "name":"Onet",
                "identifier":"onet",
                "domains":[
-                  "onet.pl"
+                  "onet.pl",
+                  "szukaj.onet.pl"
                ]
             },
             {
                "name":"Rambler",
                "identifier":"rambler",
                "domains":[
-                  "rambler.ru"
+                  "rambler.ru",
+                  "nova.rambler.ru"
                ]
             },
             {
@@ -888,24 +844,18 @@
                ]
             },
             {
-               "name":"Tut",
-               "identifier":"tut",
-               "domains":[
-                  "tut.by"
-               ]
-            },
-            {
                "name":"Docomo",
                "identifier":"docomo",
                "domains":[
-                  "search.smt.docomo.ne.jp"
+                  "service.smt.docomo.ne.jp"
                ]
             },
             {
                "name":"Seznam",
                "identifier":"seznam",
                "domains":[
-                  "seznam.cz"
+                  "seznam.cz",
+                  "search.seznam.cz"
                ]
             },
             {
