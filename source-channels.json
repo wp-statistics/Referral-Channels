@@ -22,13 +22,6 @@
          "description":"Paid traffic from search engine",
          "channels":[
             {
-               "name": "DuckDuckGo",
-               "identifier": "duckduckgo",
-               "domains": [
-                  "duckduckgo.com"
-               ]
-            },
-            {
                "name":"Google Ads",
                "identifier":"google_ads",
                "domains":[
@@ -291,6 +284,13 @@
                ]
             },
             {
+               "name": "DuckDuckGo",
+               "identifier": "duckduckgo",
+               "domains": [
+                  "duckduckgo.com"
+               ]
+            },
+            {
                "name":"Biglobe",
                "identifier":"biglobe",
                "domains":[
@@ -446,7 +446,7 @@
          "rules": [
             {
                "operator": "MATCH",
-               "pattern": "/utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/"
+               "pattern": "/\\b(gclid|gad_source)\\b|utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/"
             }
          ]
       },
