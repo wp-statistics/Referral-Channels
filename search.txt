@@ -266,4 +266,5 @@ google.co.zw
 google.cat
 lens.google.com
 news.google.com
-duckduckgo.com/
+duckduckgo.com
+ask.com

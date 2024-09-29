@@ -347,6 +347,13 @@
                ]
             },
             {
+               "name":"Ask.com",
+               "identifier":"ask",
+               "domains":[
+                  "ask.com"
+               ]
+            },
+            {
                "name":"Naver",
                "identifier":"naver",
                "domains":[
@@ -774,6 +781,13 @@
                "identifier":"baidu",
                "domains":[
                   "m.baidu.com"
+               ]
+            },
+            {
+               "name":"Ask.com",
+               "identifier":"ask",
+               "domains":[
+                  "ask.com"
                ]
             },
             {
