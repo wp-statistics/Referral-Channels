@@ -886,6 +886,13 @@
                "domains":[
                   "startsiden.no"
                ]
+            },
+            {
+               "name": "ChatGPT",
+               "identifier": "chatgpt",
+               "domains": [
+                  "chatgpt.com"
+               ]
             }
          ],
          "rules": []
