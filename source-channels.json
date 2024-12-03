@@ -25,6 +25,8 @@
                "name":"Google Ads",
                "identifier":"google_ads",
                "domains":[
+                  "google",
+                  "google-play",
                   "google.com",
                   "google.ad",
                   "google.ae",
@@ -216,20 +218,25 @@
                   "news.google.com",
                   "adsensecustomsearchads.com",
                   "syndicatedsearch.goog",
-                  "googleads.g.doubleclick.net"
+                  "googleads.g.doubleclick.net",
+                  "play.google.com",
+                  "search.google.com"
                ]
             },
             {
                "name":"Bing",
                "identifier":"bing",
                "domains":[
-                  "bing.com"
+                  "bing",
+                  "bing.com",
+                  "cn.bing.com"
                ]
             },
             {
                "name":"Yahoo",
                "identifier":"yahoo",
                "domains":[
+                  "yahoo",
                   "yahoo.com",
                   "yahoo.co.jp",
                   "espanol.search.yahoo.com",
@@ -272,6 +279,7 @@
                "name":"Yandex",
                "identifier":"yandex",
                "domains":[
+                  "yandex",
                   "yandex.by",
                   "yandex.com",
                   "yandex.com.tr",
@@ -281,13 +289,17 @@
                   "yandex.ua",
                   "yandex.uz",
                   "yandex.eu",
-                  "ya.ru"
+                  "ya.ru",
+                  "mail.yandex.ru",
+                  "webmaster.yandex.ru",
+                  "zen.yandex.ru"
                ]
             },
             {
                "name": "DuckDuckGo",
                "identifier": "duckduckgo",
                "domains": [
+                  "duckduckgo",
                   "duckduckgo.com"
                ]
             },
@@ -295,6 +307,8 @@
                "name":"Biglobe",
                "identifier":"biglobe",
                "domains":[
+                  "biglobe",
+                  "biglobe.co.jp",
                   "biglobe.ne.jp"
                ]
             },
@@ -309,6 +323,7 @@
                "name":"Daum",
                "identifier":"daum",
                "domains":[
+                  "daum",
                   "daum.net"
                ]
             },
@@ -316,6 +331,7 @@
                "name":"Dogpile",
                "identifier":"dogpile",
                "domains":[
+                  "dogpile",
                   "dogpile.com"
                ]
             },
@@ -330,6 +346,7 @@
                "name":"Excite",
                "identifier":"excite",
                "domains":[
+                  "excite.com",
                   "results.excite.com"
                ]
             },
@@ -337,13 +354,16 @@
                "name":"Qwant",
                "identifier":"qwant",
                "domains":[
-                  "qwant.com"
+                  "qwant",
+                  "qwant.com",
+                  "lite.qwant.com"
                ]
             },
             {
                "name":"Baidu",
                "identifier":"baidu",
                "domains":[
+                  "baidu",
                   "m.baidu.com"
                ]
             },
@@ -351,6 +371,7 @@
                "name":"Ask.com",
                "identifier":"ask",
                "domains":[
+                  "ask",
                   "ask.com"
                ]
             },
@@ -358,6 +379,7 @@
                "name":"Naver",
                "identifier":"naver",
                "domains":[
+                  "naver",
                   "m.naver.com",
                   "m.search.naver.com",
                   "naver.com",
@@ -368,6 +390,7 @@
                "name":"Sogou",
                "identifier":"sogou",
                "domains":[
+                  "sogou",
                   "m.sogou.com",
                   "sogou.com",
                   "wap.sogou.com"
@@ -377,6 +400,7 @@
                "name":"AOL",
                "identifier":"aol",
                "domains":[
+                  "aol",
                   "search.aol.co.uk",
                   "search.aol.com",
                   "suche.aol.de"
@@ -386,6 +410,8 @@
                "name":"Rakuten",
                "identifier":"rakuten",
                "domains":[
+                  "rakuten",
+                  "rakuten.co.jp",
                   "search.rakuten.co.jp",
                   "websearch.rakuten.co.jp"
                ]
@@ -394,6 +420,7 @@
                "name":"Onet",
                "identifier":"onet",
                "domains":[
+                  "onet",
                   "onet.pl",
                   "szukaj.onet.pl"
                ]
@@ -402,14 +429,17 @@
                "name":"Rambler",
                "identifier":"rambler",
                "domains":[
+                  "rambler",
                   "rambler.ru",
-                  "nova.rambler.ru"
+                  "nova.rambler.ru",
+                  "mail.rambler.ru"
                ]
             },
             {
                "name":"UKR",
                "identifier":"ukr",
                "domains":[
+                  "ukr",
                   "search.ukr.net",
                   "secureurl.ukr.net"
                ]
@@ -418,6 +448,7 @@
                "name":"AuOne",
                "identifier":"auone",
                "domains":[
+                  "auone",
                   "sp-web.search.auone.jp"
                ]
             },
@@ -425,15 +456,18 @@
                "name":"Docomo",
                "identifier":"docomo",
                "domains":[
-                  "service.smt.docomo.ne.jp"
+                  "service.smt.docomo.ne.jp",
+                  "search.smt.docomo.ne.jp"
                ]
             },
             {
                "name":"Seznam",
                "identifier":"seznam",
                "domains":[
+                  "seznam",
                   "seznam.cz",
-                  "search.seznam.cz"
+                  "search.seznam.cz",
+                  "email.seznam.cz"
                ]
             },
             {
@@ -447,6 +481,7 @@
                "name":"Startsiden",
                "identifier":"startsiden",
                "domains":[
+                  "startsiden",
                   "startsiden.no"
                ]
             }
@@ -465,6 +500,7 @@
                "name": "DuckDuckGo",
                "identifier": "duckduckgo",
                "domains": [
+                  "duckduckgo",
                   "duckduckgo.com"
                ]
             },
@@ -472,6 +508,8 @@
                "name":"Google",
                "identifier":"google",
                "domains":[
+                  "google",
+                  "google-play",
                   "google.com",
                   "google.ad",
                   "google.ae",
@@ -660,20 +698,25 @@
                   "google.co.zw",
                   "google.cat",
                   "lens.google.com",
-                  "news.google.com"
+                  "news.google.com",
+                  "play.google.com",
+                  "search.google.com"
                ]
             },
             {
                "name":"Bing",
                "identifier":"bing",
                "domains":[
-                  "bing.com"
+                  "bing",
+                  "bing.com",
+                  "cn.bing.com"
                ]
             },
             {
                "name":"Yahoo",
                "identifier":"yahoo",
                "domains":[
+                  "yahoo",
                   "yahoo.com",
                   "yahoo.co.jp",
                   "espanol.search.yahoo.com",
@@ -716,6 +759,7 @@
                "name":"Yandex",
                "identifier":"yandex",
                "domains":[
+                  "yandex",
                   "yandex.by",
                   "yandex.com",
                   "yandex.com.tr",
@@ -725,13 +769,18 @@
                   "yandex.ua",
                   "yandex.uz",
                   "yandex.eu",
-                  "ya.ru"
+                  "ya.ru",
+                  "mail.yandex.ru",
+                  "webmaster.yandex.ru",
+                  "zen.yandex.ru"
                ]
             },
             {
                "name":"Biglobe",
                "identifier":"biglobe",
                "domains":[
+                  "biglobe",
+                  "biglobe.co.jp",
                   "biglobe.ne.jp"
                ]
             },
@@ -746,6 +795,7 @@
                "name":"Daum",
                "identifier":"daum",
                "domains":[
+                  "daum",
                   "daum.net"
                ]
             },
@@ -753,6 +803,7 @@
                "name":"Dogpile",
                "identifier":"dogpile",
                "domains":[
+                  "dogpile",
                   "dogpile.com"
                ]
             },
@@ -767,6 +818,7 @@
                "name":"Excite",
                "identifier":"excite",
                "domains":[
+                  "excite.com",
                   "results.excite.com"
                ]
             },
@@ -774,13 +826,16 @@
                "name":"Qwant",
                "identifier":"qwant",
                "domains":[
-                  "qwant.com"
+                  "qwant",
+                  "qwant.com",
+                  "lite.qwant.com"
                ]
             },
             {
                "name":"Baidu",
                "identifier":"baidu",
                "domains":[
+                  "baidu",
                   "m.baidu.com"
                ]
             },
@@ -788,6 +843,7 @@
                "name":"Ask.com",
                "identifier":"ask",
                "domains":[
+                  "ask",
                   "ask.com"
                ]
             },
@@ -795,6 +851,7 @@
                "name":"Naver",
                "identifier":"naver",
                "domains":[
+                  "naver",
                   "m.naver.com",
                   "m.search.naver.com",
                   "naver.com",
@@ -805,6 +862,7 @@
                "name":"Sogou",
                "identifier":"sogou",
                "domains":[
+                  "sogou",
                   "m.sogou.com",
                   "sogou.com",
                   "wap.sogou.com"
@@ -814,6 +872,7 @@
                "name":"AOL",
                "identifier":"aol",
                "domains":[
+                  "aol",
                   "search.aol.co.uk",
                   "search.aol.com",
                   "suche.aol.de"
@@ -823,6 +882,8 @@
                "name":"Rakuten",
                "identifier":"rakuten",
                "domains":[
+                  "rakuten",
+                  "rakuten.co.jp",
                   "search.rakuten.co.jp",
                   "websearch.rakuten.co.jp"
                ]
@@ -831,6 +892,7 @@
                "name":"Onet",
                "identifier":"onet",
                "domains":[
+                  "onet",
                   "onet.pl",
                   "szukaj.onet.pl"
                ]
@@ -839,14 +901,17 @@
                "name":"Rambler",
                "identifier":"rambler",
                "domains":[
+                  "rambler",
                   "rambler.ru",
-                  "nova.rambler.ru"
+                  "nova.rambler.ru",
+                  "mail.rambler.ru"
                ]
             },
             {
                "name":"UKR",
                "identifier":"ukr",
                "domains":[
+                  "ukr",
                   "search.ukr.net",
                   "secureurl.ukr.net"
                ]
@@ -855,6 +920,7 @@
                "name":"AuOne",
                "identifier":"auone",
                "domains":[
+                  "auone",
                   "sp-web.search.auone.jp"
                ]
             },
@@ -862,15 +928,18 @@
                "name":"Docomo",
                "identifier":"docomo",
                "domains":[
-                  "service.smt.docomo.ne.jp"
+                  "service.smt.docomo.ne.jp",
+                  "search.smt.docomo.ne.jp"
                ]
             },
             {
                "name":"Seznam",
                "identifier":"seznam",
                "domains":[
+                  "seznam",
                   "seznam.cz",
-                  "search.seznam.cz"
+                  "search.seznam.cz",
+                  "email.seznam.cz"
                ]
             },
             {
@@ -884,6 +953,7 @@
                "name":"Startsiden",
                "identifier":"startsiden",
                "domains":[
+                  "startsiden",
                   "startsiden.no"
                ]
             },
@@ -899,6 +969,162 @@
                "identifier": "perplexity",
                "domains": [
                   "perplexity.ai"
+               ]
+            },
+            {
+               "name": "360",
+               "identifier": "360",
+               "domains": [
+                  "360.cn"
+               ]
+            },
+            {
+               "name": "Alice",
+               "identifier": "alice",
+               "domains": [
+                  "alice"
+               ]
+            },
+            {
+               "name": "Avg",
+               "identifier": "avg",
+               "domains": [
+                  "avg"
+               ]
+            },
+            {
+               "name": "Babylon",
+               "identifier": "babylon",
+               "domains": [
+                  "babylon"
+               ]
+            },
+            {
+               "name": "Centrum",
+               "identifier": "centrum",
+               "domains": [
+                  "centrum.cz"
+               ]
+            },
+            {
+               "name": "CNN",
+               "identifier": "cnn",
+               "domains": [
+                  "cnn"
+               ]
+            },
+            {
+               "name": "Comcast",
+               "identifier": "comcast",
+               "domains": [
+                  "comcast"
+               ]
+            },
+            {
+               "name": "Conduit",
+               "identifier": "conduit",
+               "domains": [
+                  "conduit"
+               ]
+            },
+            {
+               "name": "Eniro",
+               "identifier": "eniro",
+               "domains": [
+                  "eniro"
+               ]
+            },
+            {
+               "name": "Exalead",
+               "identifier": "exalead",
+               "domains": [
+                  "exalead.com"
+               ]
+            },
+            {
+               "name": "Firmy",
+               "identifier": "firmy",
+               "domains": [
+                  "firmy.cz"
+               ]
+            },
+            {
+               "name": "Globo",
+               "identifier": "globo",
+               "domains": [
+                  "globo"
+               ]
+            },
+            {
+               "name": "Mail.ru",
+               "identifier": "mail.ru",
+               "domains": [
+                  "go.mail.ru"
+               ]
+            },
+            {
+               "name": "Incredimail",
+               "identifier": "incredimail",
+               "domains": [
+                  "incredimail"
+               ]
+            },
+            {
+               "name": "Kvasir",
+               "identifier": "kvasir",
+               "domains": [
+                  "kvasir"
+               ]
+            },
+            {
+               "name": "Lycos",
+               "identifier": "lycos",
+               "domains": [
+                  "lycos"
+               ]
+            },
+            {
+               "name": "MSN",
+               "identifier": "msn",
+               "domains": [
+                  "msn",
+                  "msn.com",
+                  "ntp.msn.com"
+               ]
+            },
+            {
+               "name": "Najdi",
+               "identifier": "najdi",
+               "domains": [
+                  "najdi"
+               ]
+            },
+            {
+               "name": "Search-Results",
+               "identifier": "search-results",
+               "domains": [
+                  "search-results"
+               ]
+            },
+            {
+               "name": "Terra",
+               "identifier": "terra",
+               "domains": [
+                  "terra"
+               ]
+            },
+            {
+               "name": "Tut",
+               "identifier": "tut",
+               "domains": [
+                  "tut.by"
+               ]
+            },
+            {
+               "name": "Virgilio",
+               "identifier": "virgilio",
+               "domains": [
+                  "virgilio"
                ]
             }
          ],
