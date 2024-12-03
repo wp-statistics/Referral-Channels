@@ -487,7 +487,7 @@
          "rules": [
             {
                "operator": "MATCH",
-               "pattern": "/\\b(gclid|gad_source)\\b|utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/"
+               "pattern": "/\\b(gclid|gad_source|msclkid)\\b|utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/"
             }
          ]
       },
