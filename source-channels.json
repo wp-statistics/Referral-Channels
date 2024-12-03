@@ -290,7 +290,6 @@
                   "yandex.uz",
                   "yandex.eu",
                   "ya.ru",
-                  "mail.yandex.ru",
                   "webmaster.yandex.ru",
                   "zen.yandex.ru"
                ]
@@ -364,6 +363,7 @@
                "identifier":"baidu",
                "domains":[
                   "baidu",
+                  "baidu.com",
                   "m.baidu.com"
                ]
             },
@@ -431,8 +431,7 @@
                "domains":[
                   "rambler",
                   "rambler.ru",
-                  "nova.rambler.ru",
-                  "mail.rambler.ru"
+                  "nova.rambler.ru"
                ]
             },
             {
@@ -466,8 +465,7 @@
                "domains":[
                   "seznam",
                   "seznam.cz",
-                  "search.seznam.cz",
-                  "email.seznam.cz"
+                  "search.seznam.cz"
                ]
             },
             {
@@ -770,7 +768,6 @@
                   "yandex.uz",
                   "yandex.eu",
                   "ya.ru",
-                  "mail.yandex.ru",
                   "webmaster.yandex.ru",
                   "zen.yandex.ru"
                ]
@@ -836,6 +833,7 @@
                "identifier":"baidu",
                "domains":[
                   "baidu",
+                  "baidu.com",
                   "m.baidu.com"
                ]
             },
@@ -903,8 +901,7 @@
                "domains":[
                   "rambler",
                   "rambler.ru",
-                  "nova.rambler.ru",
-                  "mail.rambler.ru"
+                  "nova.rambler.ru"
                ]
             },
             {
@@ -938,8 +935,7 @@
                "domains":[
                   "seznam",
                   "seznam.cz",
-                  "search.seznam.cz",
-                  "email.seznam.cz"
+                  "search.seznam.cz"
                ]
             },
             {
@@ -1056,13 +1052,6 @@
                ]
             },
             {
-               "name": "Mail.ru",
-               "identifier": "mail.ru",
-               "domains": [
-                  "go.mail.ru"
-               ]
-            },
-            {
                "name": "Incredimail",
                "identifier": "incredimail",
                "domains": [
@@ -1081,15 +1070,6 @@
                "identifier": "lycos",
                "domains": [
                   "lycos"
-               ]
-            },
-            {
-               "name": "MSN",
-               "identifier": "msn",
-               "domains": [
-                  "msn",
-                  "msn.com",
-                  "ntp.msn.com"
                ]
             },
             {
