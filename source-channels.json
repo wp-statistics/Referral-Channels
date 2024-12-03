@@ -893,6 +893,13 @@
                "domains": [
                   "chatgpt.com"
                ]
+            },
+            {
+               "name": "Perplexity",
+               "identifier": "perplexity",
+               "domains": [
+                  "perplexity.ai"
+               ]
             }
          ],
          "rules": []
