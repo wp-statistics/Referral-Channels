@@ -1,12 +1,12 @@
 {
-   "source_channels":{
-      "direct":{
-         "description":"Direct traffic",
-         "channels":[
+   "source_channels": {
+      "direct": {
+         "description": "Direct traffic",
+         "channels": [
             {
-               "name":"Direct",
-               "identifier":"direct",
-               "domains":[
+               "name": "Direct",
+               "identifier": "direct",
+               "domains": [
                   ""
                ]
             }
@@ -18,13 +18,13 @@
             }
          ]
       },
-      "paid_search":{
-         "description":"Paid traffic from search engine",
-         "channels":[
+      "paid_search": {
+         "description": "Paid traffic from search engine",
+         "channels": [
             {
-               "name":"Google Ads",
-               "identifier":"google_ads",
-               "domains":[
+               "name": "Google Ads",
+               "identifier": "google_ads",
+               "domains": [
                   "google",
                   "google-play",
                   "google.com",
@@ -224,18 +224,18 @@
                ]
             },
             {
-               "name":"Bing",
-               "identifier":"bing",
-               "domains":[
+               "name": "Bing",
+               "identifier": "bing",
+               "domains": [
                   "bing",
                   "bing.com",
                   "cn.bing.com"
                ]
             },
             {
-               "name":"Yahoo",
-               "identifier":"yahoo",
-               "domains":[
+               "name": "Yahoo",
+               "identifier": "yahoo",
+               "domains": [
                   "yahoo",
                   "yahoo.com",
                   "yahoo.co.jp",
@@ -276,9 +276,9 @@
                ]
             },
             {
-               "name":"Yandex",
-               "identifier":"yandex",
-               "domains":[
+               "name": "Yandex",
+               "identifier": "yandex",
+               "domains": [
                   "yandex",
                   "yandex.by",
                   "yandex.com",
@@ -303,82 +303,82 @@
                ]
             },
             {
-               "name":"Biglobe",
-               "identifier":"biglobe",
-               "domains":[
+               "name": "Biglobe",
+               "identifier": "biglobe",
+               "domains": [
                   "biglobe",
                   "biglobe.co.jp",
                   "biglobe.ne.jp"
                ]
             },
             {
-               "name":"Centrum",
-               "identifier":"centrum",
-               "domains":[
+               "name": "Centrum",
+               "identifier": "centrum",
+               "domains": [
                   "search.centrum.cz"
                ]
             },
             {
-               "name":"Daum",
-               "identifier":"daum",
-               "domains":[
+               "name": "Daum",
+               "identifier": "daum",
+               "domains": [
                   "daum",
                   "daum.net"
                ]
             },
             {
-               "name":"Dogpile",
-               "identifier":"dogpile",
-               "domains":[
+               "name": "Dogpile",
+               "identifier": "dogpile",
+               "domains": [
                   "dogpile",
                   "dogpile.com"
                ]
             },
             {
-               "name":"Ecosia",
-               "identifier":"ecosia",
-               "domains":[
+               "name": "Ecosia",
+               "identifier": "ecosia",
+               "domains": [
                   "ecosia.org"
                ]
             },
             {
-               "name":"Excite",
-               "identifier":"excite",
-               "domains":[
+               "name": "Excite",
+               "identifier": "excite",
+               "domains": [
                   "excite.com",
                   "results.excite.com"
                ]
             },
             {
-               "name":"Qwant",
-               "identifier":"qwant",
-               "domains":[
+               "name": "Qwant",
+               "identifier": "qwant",
+               "domains": [
                   "qwant",
                   "qwant.com",
                   "lite.qwant.com"
                ]
             },
             {
-               "name":"Baidu",
-               "identifier":"baidu",
-               "domains":[
+               "name": "Baidu",
+               "identifier": "baidu",
+               "domains": [
                   "baidu",
                   "baidu.com",
                   "m.baidu.com"
                ]
             },
             {
-               "name":"Ask.com",
-               "identifier":"ask",
-               "domains":[
+               "name": "Ask.com",
+               "identifier": "ask",
+               "domains": [
                   "ask",
                   "ask.com"
                ]
             },
             {
-               "name":"Naver",
-               "identifier":"naver",
-               "domains":[
+               "name": "Naver",
+               "identifier": "naver",
+               "domains": [
                   "naver",
                   "m.naver.com",
                   "m.search.naver.com",
@@ -387,9 +387,9 @@
                ]
             },
             {
-               "name":"Sogou",
-               "identifier":"sogou",
-               "domains":[
+               "name": "Sogou",
+               "identifier": "sogou",
+               "domains": [
                   "sogou",
                   "m.sogou.com",
                   "sogou.com",
@@ -397,9 +397,9 @@
                ]
             },
             {
-               "name":"AOL",
-               "identifier":"aol",
-               "domains":[
+               "name": "AOL",
+               "identifier": "aol",
+               "domains": [
                   "aol",
                   "search.aol.co.uk",
                   "search.aol.com",
@@ -407,9 +407,9 @@
                ]
             },
             {
-               "name":"Rakuten",
-               "identifier":"rakuten",
-               "domains":[
+               "name": "Rakuten",
+               "identifier": "rakuten",
+               "domains": [
                   "rakuten",
                   "rakuten.co.jp",
                   "search.rakuten.co.jp",
@@ -417,68 +417,68 @@
                ]
             },
             {
-               "name":"Onet",
-               "identifier":"onet",
-               "domains":[
+               "name": "Onet",
+               "identifier": "onet",
+               "domains": [
                   "onet",
                   "onet.pl",
                   "szukaj.onet.pl"
                ]
             },
             {
-               "name":"Rambler",
-               "identifier":"rambler",
-               "domains":[
+               "name": "Rambler",
+               "identifier": "rambler",
+               "domains": [
                   "rambler",
                   "rambler.ru",
                   "nova.rambler.ru"
                ]
             },
             {
-               "name":"UKR",
-               "identifier":"ukr",
-               "domains":[
+               "name": "UKR",
+               "identifier": "ukr",
+               "domains": [
                   "ukr",
                   "search.ukr.net",
                   "secureurl.ukr.net"
                ]
             },
             {
-               "name":"AuOne",
-               "identifier":"auone",
-               "domains":[
+               "name": "AuOne",
+               "identifier": "auone",
+               "domains": [
                   "auone",
                   "sp-web.search.auone.jp"
                ]
             },
             {
-               "name":"Docomo",
-               "identifier":"docomo",
-               "domains":[
+               "name": "Docomo",
+               "identifier": "docomo",
+               "domains": [
                   "service.smt.docomo.ne.jp",
                   "search.smt.docomo.ne.jp"
                ]
             },
             {
-               "name":"Seznam",
-               "identifier":"seznam",
-               "domains":[
+               "name": "Seznam",
+               "identifier": "seznam",
+               "domains": [
                   "seznam",
                   "seznam.cz",
                   "search.seznam.cz"
                ]
             },
             {
-               "name":"So",
-               "identifier":"so",
-               "domains":[
+               "name": "So",
+               "identifier": "so",
+               "domains": [
                   "so.com"
                ]
             },
             {
-               "name":"Startsiden",
-               "identifier":"startsiden",
-               "domains":[
+               "name": "Startsiden",
+               "identifier": "startsiden",
+               "domains": [
                   "startsiden",
                   "startsiden.no"
                ]
@@ -491,9 +491,9 @@
             }
          ]
       },
-      "search":{
-         "description":"Organic traffic from search engines",
-         "channels":[
+      "search": {
+         "description": "Organic traffic from search engines",
+         "channels": [
             {
                "name": "DuckDuckGo",
                "identifier": "duckduckgo",
@@ -503,9 +503,9 @@
                ]
             },
             {
-               "name":"Google",
-               "identifier":"google",
-               "domains":[
+               "name": "Google",
+               "identifier": "google",
+               "domains": [
                   "google",
                   "google-play",
                   "google.com",
@@ -702,18 +702,18 @@
                ]
             },
             {
-               "name":"Bing",
-               "identifier":"bing",
-               "domains":[
+               "name": "Bing",
+               "identifier": "bing",
+               "domains": [
                   "bing",
                   "bing.com",
                   "cn.bing.com"
                ]
             },
             {
-               "name":"Yahoo",
-               "identifier":"yahoo",
-               "domains":[
+               "name": "Yahoo",
+               "identifier": "yahoo",
+               "domains": [
                   "yahoo",
                   "yahoo.com",
                   "yahoo.co.jp",
@@ -754,9 +754,9 @@
                ]
             },
             {
-               "name":"Yandex",
-               "identifier":"yandex",
-               "domains":[
+               "name": "Yandex",
+               "identifier": "yandex",
+               "domains": [
                   "yandex",
                   "yandex.by",
                   "yandex.com",
@@ -773,82 +773,82 @@
                ]
             },
             {
-               "name":"Biglobe",
-               "identifier":"biglobe",
-               "domains":[
+               "name": "Biglobe",
+               "identifier": "biglobe",
+               "domains": [
                   "biglobe",
                   "biglobe.co.jp",
                   "biglobe.ne.jp"
                ]
             },
             {
-               "name":"Centrum",
-               "identifier":"centrum",
-               "domains":[
+               "name": "Centrum",
+               "identifier": "centrum",
+               "domains": [
                   "search.centrum.cz"
                ]
             },
             {
-               "name":"Daum",
-               "identifier":"daum",
-               "domains":[
+               "name": "Daum",
+               "identifier": "daum",
+               "domains": [
                   "daum",
                   "daum.net"
                ]
             },
             {
-               "name":"Dogpile",
-               "identifier":"dogpile",
-               "domains":[
+               "name": "Dogpile",
+               "identifier": "dogpile",
+               "domains": [
                   "dogpile",
                   "dogpile.com"
                ]
             },
             {
-               "name":"Ecosia",
-               "identifier":"ecosia",
-               "domains":[
+               "name": "Ecosia",
+               "identifier": "ecosia",
+               "domains": [
                   "ecosia.org"
                ]
             },
             {
-               "name":"Excite",
-               "identifier":"excite",
-               "domains":[
+               "name": "Excite",
+               "identifier": "excite",
+               "domains": [
                   "excite.com",
                   "results.excite.com"
                ]
             },
             {
-               "name":"Qwant",
-               "identifier":"qwant",
-               "domains":[
+               "name": "Qwant",
+               "identifier": "qwant",
+               "domains": [
                   "qwant",
                   "qwant.com",
                   "lite.qwant.com"
                ]
             },
             {
-               "name":"Baidu",
-               "identifier":"baidu",
-               "domains":[
+               "name": "Baidu",
+               "identifier": "baidu",
+               "domains": [
                   "baidu",
                   "baidu.com",
                   "m.baidu.com"
                ]
             },
             {
-               "name":"Ask.com",
-               "identifier":"ask",
-               "domains":[
+               "name": "Ask.com",
+               "identifier": "ask",
+               "domains": [
                   "ask",
                   "ask.com"
                ]
             },
             {
-               "name":"Naver",
-               "identifier":"naver",
-               "domains":[
+               "name": "Naver",
+               "identifier": "naver",
+               "domains": [
                   "naver",
                   "m.naver.com",
                   "m.search.naver.com",
@@ -857,9 +857,9 @@
                ]
             },
             {
-               "name":"Sogou",
-               "identifier":"sogou",
-               "domains":[
+               "name": "Sogou",
+               "identifier": "sogou",
+               "domains": [
                   "sogou",
                   "m.sogou.com",
                   "sogou.com",
@@ -867,9 +867,9 @@
                ]
             },
             {
-               "name":"AOL",
-               "identifier":"aol",
-               "domains":[
+               "name": "AOL",
+               "identifier": "aol",
+               "domains": [
                   "aol",
                   "search.aol.co.uk",
                   "search.aol.com",
@@ -877,9 +877,9 @@
                ]
             },
             {
-               "name":"Rakuten",
-               "identifier":"rakuten",
-               "domains":[
+               "name": "Rakuten",
+               "identifier": "rakuten",
+               "domains": [
                   "rakuten",
                   "rakuten.co.jp",
                   "search.rakuten.co.jp",
@@ -887,68 +887,68 @@
                ]
             },
             {
-               "name":"Onet",
-               "identifier":"onet",
-               "domains":[
+               "name": "Onet",
+               "identifier": "onet",
+               "domains": [
                   "onet",
                   "onet.pl",
                   "szukaj.onet.pl"
                ]
             },
             {
-               "name":"Rambler",
-               "identifier":"rambler",
-               "domains":[
+               "name": "Rambler",
+               "identifier": "rambler",
+               "domains": [
                   "rambler",
                   "rambler.ru",
                   "nova.rambler.ru"
                ]
             },
             {
-               "name":"UKR",
-               "identifier":"ukr",
-               "domains":[
+               "name": "UKR",
+               "identifier": "ukr",
+               "domains": [
                   "ukr",
                   "search.ukr.net",
                   "secureurl.ukr.net"
                ]
             },
             {
-               "name":"AuOne",
-               "identifier":"auone",
-               "domains":[
+               "name": "AuOne",
+               "identifier": "auone",
+               "domains": [
                   "auone",
                   "sp-web.search.auone.jp"
                ]
             },
             {
-               "name":"Docomo",
-               "identifier":"docomo",
-               "domains":[
+               "name": "Docomo",
+               "identifier": "docomo",
+               "domains": [
                   "service.smt.docomo.ne.jp",
                   "search.smt.docomo.ne.jp"
                ]
             },
             {
-               "name":"Seznam",
-               "identifier":"seznam",
-               "domains":[
+               "name": "Seznam",
+               "identifier": "seznam",
+               "domains": [
                   "seznam",
                   "seznam.cz",
                   "search.seznam.cz"
                ]
             },
             {
-               "name":"So",
-               "identifier":"so",
-               "domains":[
+               "name": "So",
+               "identifier": "so",
+               "domains": [
                   "so.com"
                ]
             },
             {
-               "name":"Startsiden",
-               "identifier":"startsiden",
-               "domains":[
+               "name": "Startsiden",
+               "identifier": "startsiden",
+               "domains": [
                   "startsiden",
                   "startsiden.no"
                ]
@@ -1110,33 +1110,31 @@
          ],
          "rules": []
       },
-      "social_media":{
-         "description":"Traffic from social media platforms",
-         "channels":[],
-         "rules": []
-      },
-      "paid_social_media":{
-         "description":"Paid traffic from social media advertisements",
-         "channels":[],
-         "rules": []
-      },
-      "referral_sites":{
-         "description":"Traffic from referral websites",
-         "channels":[],
-         "rules": []
-      },
-      "email":{
-         "description":"Traffic from email campaigns",
-         "channels":[],
-         "rules": []
-      },
-      "organic_shopping":{
-         "description":"Organic Shopping",
-         "channels":[
+      "display": {
+         "description": "Display",
+         "channels": [
             {
-               "name":"Amazon",
-               "identifier":"amazon",
-               "domains":[
+               "name": "Display",
+               "identifier": "display",
+               "domains": [
+                  "*"
+               ]
+            }
+         ],
+         "rules": [
+            {
+               "operator": "MATCH",
+               "pattern": "/utm_medium=.*(display|banner|expandable|interstitial|cpm)$/"
+            }
+         ]
+      },
+      "organic_shopping": {
+         "description": "Organic Shopping",
+         "channels": [
+            {
+               "name": "Amazon",
+               "identifier": "amazon",
+               "domains": [
                   "amazon.com",
                   "amazon.co.uk",
                   "s3.amazonaws.com",
@@ -1145,9 +1143,9 @@
                ]
             },
             {
-               "name":"Alibaba",
-               "identifier":"alibaba",
-               "domains":[
+               "name": "Alibaba",
+               "identifier": "alibaba",
+               "domains": [
                   "alibaba.com",
                   "m.alibaba.com",
                   "offer.alibaba.com",
@@ -1155,9 +1153,9 @@
                ]
             },
             {
-               "name":"eBay",
-               "identifier":"ebay",
-               "domains":[
+               "name": "eBay",
+               "identifier": "ebay",
+               "domains": [
                   "ebay.com",
                   "ebay.de",
                   "ebay.co.uk",
@@ -1165,16 +1163,16 @@
                ]
             },
             {
-               "name":"Etsy",
-               "identifier":"etsy",
-               "domains":[
+               "name": "Etsy",
+               "identifier": "etsy",
+               "domains": [
                   "etsy.com"
                ]
             },
             {
-               "name":"Shopify",
-               "identifier":"shopify",
-               "domains":[
+               "name": "Shopify",
+               "identifier": "shopify",
+               "domains": [
                   "shopify.com",
                   "apps.shopify.com",
                   "checkout.shopify.com",
@@ -1182,16 +1180,16 @@
                ]
             },
             {
-               "name":"Shop",
-               "identifier":"shop",
-               "domains":[
+               "name": "Shop",
+               "identifier": "shop",
+               "domains": [
                   "shop.app"
                ]
             },
             {
-               "name":"Shopping",
-               "identifier":"shopping",
-               "domains":[
+               "name": "Shopping",
+               "identifier": "shopping",
+               "domains": [
                   "uk.shopping.net",
                   "nl.shopping.net",
                   "no.shopping.net",
@@ -1199,40 +1197,40 @@
                ]
             },
             {
-               "name":"Shopzilla",
-               "identifier":"shopzilla",
-               "domains":[
+               "name": "Shopzilla",
+               "identifier": "shopzilla",
+               "domains": [
                   "shopzilla.com"
                ]
             },
             {
-               "name":"SimplyCodes",
-               "identifier":"simplycodes",
-               "domains":[
+               "name": "SimplyCodes",
+               "identifier": "simplycodes",
+               "domains": [
                   "simplycodes.com"
                ]
             },
             {
-               "name":"Stripe",
-               "identifier":"stripe",
-               "domains":[
+               "name": "Stripe",
+               "identifier": "stripe",
+               "domains": [
                   "stripe.com",
                   "checkout.stripe.com"
                ]
             },
             {
-               "name":"MercadoLibre",
-               "identifier":"mercadolibre",
-               "domains":[
+               "name": "MercadoLibre",
+               "identifier": "mercadolibre",
+               "domains": [
                   "mercadolibre.com",
                   "mercadolibre.com.ar",
                   "mercadolibre.com.mx"
                ]
             },
             {
-               "name":"Naver",
-               "identifier":"naver",
-               "domains":[
+               "name": "Naver",
+               "identifier": "naver",
+               "domains": [
                   "shopping.naver.com",
                   "m.shopping.naver.com",
                   "msearch.shopping.naver.com",
@@ -1241,9 +1239,9 @@
                ]
             },
             {
-               "name":"Yahoo",
-               "identifier":"yahoo",
-               "domains":[
+               "name": "Yahoo",
+               "identifier": "yahoo",
+               "domains": [
                   "shopping.yahoo.com",
                   "shopping.yahoo.co.jp",
                   "order.shopping.yahoo.co.jp",
@@ -1251,17 +1249,17 @@
                ]
             },
             {
-               "name":"Walmart",
-               "identifier":"walmart",
-               "domains":[
+               "name": "Walmart",
+               "identifier": "walmart",
+               "domains": [
                   "walmart.com",
                   "one.walmart.com"
                ]
             },
             {
-               "name":"Temu",
-               "identifier":"temu",
-               "domains":[
+               "name": "Temu",
+               "identifier": "temu",
+               "domains": [
                   "temu.com"
                ]
             }
