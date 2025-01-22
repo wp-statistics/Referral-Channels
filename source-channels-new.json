@@ -2570,7 +2570,7 @@
         ]
       },
       {
-        "name": "wechat",
+        "name": "WeChat",
         "identifier": "wechat",
         "domains": [
           "wechat",
@@ -2609,7 +2609,7 @@
         ]
       },
       {
-        "name": "whatsapp",
+        "name": "WhatsApp",
         "identifier": "whatsapp",
         "domains": [
           "whatsapp",
@@ -2617,7 +2617,7 @@
         ]
       },
       {
-        "name": "wordpress",
+        "name": "WordPress",
         "identifier": "wordpress",
         "domains": [
           "wordpress",
@@ -2702,7 +2702,7 @@
         ]
       },
       {
-        "name": "wikihow",
+        "name": "wikiHow",
         "identifier": "wikihow",
         "domains": [
           "wikihow.com"
@@ -2723,10 +2723,11 @@
         ]
       },
       {
-        "name": "Twitter",
+        "name": "X (Twitter)",
         "identifier": "twitter",
         "domains": [
           "t.co",
+          "x.com",
           "twitter",
           "twitter.com"
         ]
@@ -5450,7 +5451,7 @@
         ]
       },
       {
-        "name": "wechat",
+        "name": "WeChat",
         "identifier": "wechat",
         "domains": [
           "wechat",
@@ -5489,7 +5490,7 @@
         ]
       },
       {
-        "name": "whatsapp",
+        "name": "WhatsApp",
         "identifier": "whatsapp",
         "domains": [
           "whatsapp",
@@ -5497,7 +5498,7 @@
         ]
       },
       {
-        "name": "wordpress",
+        "name": "WordPress",
         "identifier": "wordpress",
         "domains": [
           "wordpress",
@@ -5514,7 +5515,7 @@
         ]
       },
       {
-        "name": "xing",
+        "name": "XING",
         "identifier": "xing",
         "domains": [
           "xing",
@@ -5603,10 +5604,11 @@
         ]
       },
       {
-        "name": "Twitter",
+        "name": "X (Twitter)",
         "identifier": "twitter",
         "domains": [
           "t.co",
+          "x.com",
           "twitter",
           "twitter.com"
         ]
