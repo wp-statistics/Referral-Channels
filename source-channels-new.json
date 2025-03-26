@@ -3173,7 +3173,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/\\b(fbclid|li_fat_id|twclid|ttclid)\\b|utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
+        "pattern": "/\\b(li_fat_id|twclid|ttclid)\\b|utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
       }
     ]
   },
