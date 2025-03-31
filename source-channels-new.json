@@ -2623,7 +2623,9 @@
           "wordpress",
           "wordpress.com",
           "wordpress.org",
-          "*.wordpress.org"
+          "*.wordpress.org",
+          "wordpress.net",
+          "*.wordpress.net"
         ]
       },
       {
@@ -5505,7 +5507,9 @@
           "wordpress",
           "wordpress.com",
           "wordpress.org",
-          "*.wordpress.org"
+          "*.wordpress.org",
+          "wordpress.net",
+          "*.wordpress.net"
         ]
       },
       {
