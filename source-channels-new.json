@@ -159,7 +159,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
+        "pattern": "/utm_medium=(([^&]*)cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
       }
     ]
   },
@@ -179,11 +179,11 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/[?&]utm_campaign=(.*?(?:(?<![a-df-z])shop|shopping).*)/i"
+        "pattern": "/[?&]utm_campaign=(([^&]*)?(?:(?<![a-df-z])shop|shopping).*)/i"
       },
       {
         "operator": "MATCH",
-        "pattern": "/utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
+        "pattern": "/utm_medium=(([^&]*)cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
       }
     ]
   },
@@ -658,7 +658,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/\\b(gclid|gad_source|msclkid|yclid|dclid)\\b|utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
+        "pattern": "/\\b(gclid|gad_source|msclkid|yclid|dclid)\\b|utm_medium=(([^&]*)cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
       }
     ]
   },
@@ -3175,7 +3175,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/\\b(li_fat_id|twclid|ttclid)\\b|utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
+        "pattern": "/\\b(li_fat_id|twclid|ttclid)\\b|utm_medium=(([^&]*)cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
       }
     ]
   },
@@ -3342,7 +3342,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
+        "pattern": "/utm_medium=(([^&]*)cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
       }
     ]
   },
@@ -3362,7 +3362,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/utm_medium=.*(display|banner|expandable|interstitial|cpm)$/i"
+        "pattern": "/utm_medium=(display|banner|expandable|interstitial|cpm)/i"
       }
     ]
   },
@@ -3382,7 +3382,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/utm_medium=(.*cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
+        "pattern": "/utm_medium=(([^&]*)cp.*|ppc|retargeting|paid.*)(?:&|$)/i"
       }
     ]
   },
@@ -3542,7 +3542,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/[?&]utm_campaign=(.*?(?:(?<![a-df-z])shop|shopping).*)/i"
+        "pattern": "/[?&]utm_campaign=(([^&]*)?(?:(?<![a-df-z])shop|shopping).*)/i"
       }
     ]
   },
@@ -6074,7 +6074,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/utm_medium=.*(social|social-network|social-media|sm|social(%20|\\+| )network|social(%20|\\+| )media)$/i"
+        "pattern": "/utm_medium=(social|social-network|social-media|sm|social(%20|\\+| )network|social(%20|\\+| )media)/i"
       }
     ]
   },
@@ -6884,7 +6884,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/utm_medium=.*(organic)$/i"
+        "pattern": "/utm_medium=(organic)/i"
       }
     ]
   },
@@ -6904,7 +6904,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/utm_medium=.*(referral|app|link)$/i"
+        "pattern": "/utm_medium=(referral|app|link)/i"
       }
     ]
   },
@@ -7240,7 +7240,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/utm_medium=.*(affiliate)$/i"
+        "pattern": "/utm_medium=(affiliate)/i"
       }
     ]
   },
@@ -7260,7 +7260,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/utm_medium=.*(audio)$/i"
+        "pattern": "/utm_medium=(audio)/i"
       }
     ]
   },
@@ -7300,7 +7300,7 @@
     "rules": [
       {
         "operator": "MATCH",
-        "pattern": "/utm_medium=.*push$|utm_medium=.*(mobile|notification)|(?:utm_source|source|ref)=firebase(?:&|$)/i"
+        "pattern": "/utm_medium=([^&]*)push(?:&|$)|utm_medium=([^&]*)(mobile|notification)([^&]*)|(?:utm_source|source|ref)=firebase(?:&|$)/i"
       }
     ]
   }
