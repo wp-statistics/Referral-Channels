@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This repository is no longer maintained, as the source channels database has been integrated into the core of the WP Statistics plugin.
+
+
 # WP Statistics Referral Channels
 
 This project is dedicated to enhancing the [WP Statistics](https://wp-statistics.com/) WordPress plugin by categorizing traffic based on referral URLs.
